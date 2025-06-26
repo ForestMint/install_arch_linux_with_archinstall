@@ -15,5 +15,6 @@ $ exit
 ```
 
 ```sh
+$ ping yahoo.com
 $ archinstall
 ```
